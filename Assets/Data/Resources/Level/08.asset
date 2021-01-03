@@ -1,0 +1,381 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38ac4b61d4c1ea74885c14be17401c67, type: 3}
+  m_Name: 08
+  m_EditorClassIdentifier: 
+  number: 8
+  stage:
+    list:
+    - type: 1
+      color: 0
+      adjacentWallPattern: 80
+    - type: 1
+      color: 0
+      adjacentWallPattern: 56
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 152
+    - type: 1
+      color: 0
+      adjacentWallPattern: 72
+    - type: 1
+      color: 0
+      adjacentWallPattern: 70
+    - type: 2
+      color: 1
+      adjacentWallPattern: 0
+    - type: 2
+      color: 1
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 67
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 2
+      color: 1
+      adjacentWallPattern: 0
+    - type: 2
+      color: 1
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 32
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 3
+      color: 1
+      adjacentWallPattern: 0
+    - type: 3
+      color: 1
+      adjacentWallPattern: 0
+    - type: 3
+      color: 1
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 3
+      color: 1
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 0
+    - type: 3
+      color: 1
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 3
+      color: 1
+      adjacentWallPattern: 0
+    - type: 3
+      color: 1
+      adjacentWallPattern: 0
+    - type: 3
+      color: 1
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 2
+      color: 1
+      adjacentWallPattern: 0
+    - type: 2
+      color: 1
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 66
+    - type: 1
+      color: 0
+      adjacentWallPattern: 194
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 0
+      color: 0
+      adjacentWallPattern: 0
+    - type: 2
+      color: 1
+      adjacentWallPattern: 0
+    - type: 2
+      color: 1
+      adjacentWallPattern: 0
+    - type: 1
+      color: 0
+      adjacentWallPattern: 98
+    - type: 1
+      color: 0
+      adjacentWallPattern: 18
+    - type: 1
+      color: 0
+      adjacentWallPattern: 25
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 24
+    - type: 1
+      color: 0
+      adjacentWallPattern: 28
+    - type: 1
+      color: 0
+      adjacentWallPattern: 10
+    size: {x: 11, y: 11}
